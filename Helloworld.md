@@ -16,7 +16,7 @@ Nowadays people created amazing projects using the RPi utilizing it as a microco
 See here for the latest updates of Raspberry Pi Projects.
 
 ### Photography & Editing
-I bought myself a sony alpha 6000 camera in order express my creative side. The photos I really like will end up on this website. I still need to find a favored programm and practise for the editing. So you won't see anything here soon.
+I bought myself a sony alpha 6000 camera which will (hopefully) create beautiful images of everyday things and of traveling. The photos I really like will end up on this website. I still need to find a favored programm and practise for the editing. So you won't see anything here soon.
 
 ### Pesonal Portfolio
 A website serving as a personal portfolio.  
