@@ -13,7 +13,7 @@ The Raspberry Pi is a small SBC (single board computer) whose intented purpose w
 
 Nowadays people created amazing projects using the RPi utilizing it as a microcontroller. However, I will use it exactly as its intended; creating a small homelab to learn networking and administration of IT systems.
 
-See here for the latest updates of Raspberry Pi Projects.
+[See here for the latest updates of Raspberry Pi Projects.](RpiProject.md)
 
 ### Photography & Editing
 I bought myself a sony alpha 6000 camera which will (hopefully) create beautiful images of everyday things and of traveling. The photos I really like will end up on this website. I still need to find a favored programm and practise for the editing. So you won't see anything here soon.
