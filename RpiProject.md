@@ -9,6 +9,7 @@ Sadly none :/
 
 ### Planned
 * Set up a NAS server which can be remotely accessed via OpenVPN.
+* Set up Git server using Gitea.
 * Set up an Apache server to learn basics of web development.
 * Set up a shared calender for the internal network.
 
