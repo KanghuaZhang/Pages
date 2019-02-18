@@ -13,4 +13,4 @@ Sadly none :/
 * Set up a shared calender for the internal network.
 
 
-[Image](img/MainSetup.jpeg)
+![Image](img/MainSetup.jpeg)
