@@ -10,4 +10,7 @@ Sadly none :/
 ### Planned
 * Set up a NAS server which can be remotely accessed via OpenVPN.
 * Set up an Apache server to learn basics of web development.
-* Set up a shared calender for the whole internal network.
+* Set up a shared calender for the internal network.
+
+
+[Image](img/MainSetup.jpeg)
